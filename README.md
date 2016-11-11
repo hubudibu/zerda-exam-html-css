@@ -81,6 +81,7 @@ Add your answer to this readme file, commit your changes to this repository.
 </html>
 ```
 #### Your answer: [2p]
+Test if github sync is working
 
 
 ## 3. Explain concepts (~15 minutes) [4 points]
